@@ -11,6 +11,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             var a = 1;
+            var b = 2;
+            var c = 3;
+            var d = 5;
             Console.WriteLine("hola nacho");
             Console.ReadLine();
         }
