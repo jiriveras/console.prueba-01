@@ -13,6 +13,7 @@ namespace ConsoleApp1
             var a = 1;
             var e = 5;
             var f = 6;
+            var g = 8;
             Console.WriteLine("hola nacho");
             Console.ReadLine();
         }
